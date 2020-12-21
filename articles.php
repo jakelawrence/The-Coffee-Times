@@ -82,7 +82,7 @@
                     
 
                 <?php if ($page == 10) {?>
-                    <li class="m-3"?><a href="?page=3">8</a></li>
+                    <li class="m-3"?><a href="?page=8">8</a></li>
                 <?php } ?>
 
                 <?php if ($page > 1) {?>
